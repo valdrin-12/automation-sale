@@ -31,7 +31,7 @@ namespace EdNunit.Tests
 
             HomePage homePage = new(webDriver);
             homePage.txtsendKeys();
-           // homePage.txtsendKeys();
+           //nnnnnnnnnnnnnnnnn
             homePage.txtsendKeys2();
             homePage.ClickLogin();
 
@@ -45,7 +45,6 @@ namespace EdNunit.Tests
             waitP.Waiters2();
 
             loginpage.ClickctoCheck();
-
 
             Screenshots screen = new(webDriver);
             screen.screenshots();

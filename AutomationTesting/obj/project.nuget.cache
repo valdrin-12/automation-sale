@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+9ogXKpJF190uTd1woESOinG+ZqEqgMk+9GwJoXKEhZUenVjqTf036Kk6g9LWjl6bpT/cg8KS37KVD6v6Gip5w==",
+  "dgSpecHash": "IZ4qWEaRleE2by+vxhNA1XR0EA7tPvq5TOHGUZ1E0UWpXwe/sBgnbBF8Y2SLxQYPQcR/yIvDK2KWqxUf7HjLkQ==",
   "success": true,
-  "projectFilePath": "/Users/macbookpro/Desktop/demo/AutomationTesting/AutomationTesting/AutomationTesting.csproj",
+  "projectFilePath": "/Users/macbookpro/Documents/GitHub/automation-sale/AutomationTesting/AutomationTesting.csproj",
   "expectedPackageFiles": [
     "/Users/macbookpro/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/macbookpro/.nuget/packages/dnsclient/1.2.0/dnsclient.1.2.0.nupkg.sha512",

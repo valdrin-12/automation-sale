@@ -10139,11 +10139,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbookpro/Desktop/demo/AutomationTesting/AutomationTesting/AutomationTesting.csproj",
+      "projectUniqueName": "/Users/macbookpro/Documents/GitHub/automation-sale/AutomationTesting/AutomationTesting.csproj",
       "projectName": "AutomationTesting",
-      "projectPath": "/Users/macbookpro/Desktop/demo/AutomationTesting/AutomationTesting/AutomationTesting.csproj",
+      "projectPath": "/Users/macbookpro/Documents/GitHub/automation-sale/AutomationTesting/AutomationTesting.csproj",
       "packagesPath": "/Users/macbookpro/.nuget/packages/",
-      "outputPath": "/Users/macbookpro/Desktop/demo/AutomationTesting/AutomationTesting/obj/",
+      "outputPath": "/Users/macbookpro/Documents/GitHub/automation-sale/AutomationTesting/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbookpro/.nuget/NuGet/NuGet.Config"

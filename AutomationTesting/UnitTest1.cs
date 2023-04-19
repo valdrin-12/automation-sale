@@ -21,7 +21,8 @@ namespace EdNunit
         public void Test1()
         {
 
-            //mmmmmmm
+            //mmmmmmm :::LKKKKKK
+            //oooooo
             webDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
 
             webDriver.Navigate().GoToUrl("https://egjeta.com/");
